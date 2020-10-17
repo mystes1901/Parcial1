@@ -4,6 +4,19 @@ using namespace std;
 
 int main()
 {
-    cout << "Hello World!" << endl;
-    return 0;
+    int defx=0, defy=0;
+    int atax=0, atay=0;
+    int vel_at, vel_def;
+
+
+
+
+
+
+
+
+
+
+
+
 }
